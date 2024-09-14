@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos do Homem-Aranha</title>
+</head>
+<body>
+    <h1>Vídeos do Homem-Aranha</h1>
+    
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Homem-Aranha: Trailer Oficial</a></li>
+        <li><a href="https://www.youtube.com/watch?v=eSLe4HuKuK0" target="_blank">Homem-Aranha vs. Venom</a></li>
+        <li><a href="https://www.youtube.com/watch?v=kXYiU_JCYtU" target="_blank">Melhores Cenas do Homem-Aranha</a></li>
+    </ul>
+
+    <footer>
+        <p>Veja mais vídeos no <a href="https://www.youtube.com/results?search_query=homem+aranha" target="_blank">YouTube</a>.</p>
+    </footer>
+</body>
+</html>
